@@ -3,7 +3,7 @@
 - 🌱 Cyber Security student at Stetson Univeristy.
 - 🔭 Working on Cloud Infrastructure at AssuredPartners.
 - ⚡ Information Security Engineering / Incident Response
-- 📫 http://www.mnsec0.net
+- 📫 https://www.mnsec0.net
 <!--
 **mnsec0/mnsec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
