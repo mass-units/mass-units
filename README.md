@@ -1,5 +1,5 @@
 ## Hello! 👋
-### root@root: whois
+### root@root: whoami
 - 🌱 Cyber Security student at Stetson Univeristy.
 - 🔭 Working on Cloud Infrastructure at AssuredPartners.
 - ⚡ Information Security Engineering / Incident Response
