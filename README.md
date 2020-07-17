@@ -1,6 +1,6 @@
 # Hello! 👋
 ### root@root: whoami
-- 🌱 Cyber Security student at Stetson Univeristy.
+- 🌱 Cyber Security student at Stetson University.
 - 🔭 Working on Cloud Infrastructure at AssuredPartners.
 - ⚡ Information Security Engineering / Incident Response
 - 📫 https://www.mnsec0.net
