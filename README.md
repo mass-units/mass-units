@@ -1,9 +1,9 @@
 ## Hello! 👋
-##
-🌱 I am a Cyber Security student at Stetson Univeristy.
-🔭 I’m currently working on Cloud Infrastructure at AssuredPartners.
-📫 Take a look at my [site](http://www.mnsec0.net)
-⚡ Looking for opportunities in Information Security Engineering / Incident Response
+### root@root: whois
+🌱 Cyber Security student at Stetson Univeristy.
+🔭 Working on Cloud Infrastructure at AssuredPartners.
+📫 http://www.mnsec0.net
+⚡ Information Security Engineering / Incident Response
 
 <!--
 **mnsec0/mnsec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
