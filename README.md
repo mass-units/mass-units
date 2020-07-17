@@ -1,9 +1,9 @@
 ## Hello! 👋
 ### root@root: whois
-🌱 Cyber Security student at Stetson Univeristy.
-🔭 Working on Cloud Infrastructure at AssuredPartners.
-📫 http://www.mnsec0.net
-⚡ Information Security Engineering / Incident Response
+- 🌱 Cyber Security student at Stetson Univeristy.
+- 🔭 Working on Cloud Infrastructure at AssuredPartners.
+- 📫 http://www.mnsec0.net
+- ⚡ Information Security Engineering / Incident Response
 
 <!--
 **mnsec0/mnsec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
