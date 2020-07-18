@@ -1,8 +1,9 @@
 # Hello! 👋
-### root@root: whoami
-- 🌱 Cyber Security student at Stetson University.
-- 🔭 Working on Cloud Infrastructure at AssuredPartners.
-- ⚡ Information Security Engineering / Incident Response
+### $: whoami
+- 📜 Cyber Security, Stetson University
+- ☁️ Cloud Infrastructure @ AssuredPartners
+- ✨ Information Security Engineer / Analyst
+
 <!--
 **mnsec0/mnsec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- ⚡ CompTIA Security+
 -->
