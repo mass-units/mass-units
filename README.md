@@ -1,7 +1,7 @@
 # Hello! 👋
 ### $: whoami
-- 📜 Cyber Security, Stetson University
-- ☁️ Cloud Infrastructure @ AssuredPartners
+- 📜 BS Cybersecurity, Stetson University
+- ☁️ Cloud Systems & Security @ AssuredPartners
 - ✨ Information Security Engineer / Analyst
 
 <!--
