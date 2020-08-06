@@ -3,6 +3,7 @@
 - 📜 BS Cybersecurity, Stetson University
 - 💻 Network Analyst / Security Engineer @ Stetson Office of Information Security
 - ✨ Information Security Engineer / Analyst
+- ⚡ Goal for 2020: Become a CISSP - Associate of (ISC)2
 
 <!--
 **mnsec0/mnsec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
