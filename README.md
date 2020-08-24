@@ -1,9 +1,9 @@
 # Hello! 👋
 ### $: whoami
 - 📜 BS Cybersecurity, Stetson University
-- 💻 Network Analyst / Security Engineer @ Stetson Office of Information Security
+- 💻 Security / Network Assistant @ Stetson Office of Information Security
 - ✨ Information Security Engineer / Analyst
-- ⚡ Goal for 2020: Become a CISSP - Associate of (ISC)2
+- ⚡ Goal for 2020: Get the new Security+ (601)
 
 <!--
 **mnsec0/mnsec0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
