@@ -1,9 +1,9 @@
 # Hello! 👋
 ### About me:
 - 📜 BS Cybersecurity, Stetson University
-- 💻 Security / Network Assistant @ Stetson Network Team
+- 💻 Cybersecurity / Network Assistant @ Stetson University Information Security
 - ✨ Information Security Engineer / Analyst
-- ⚡ Goal for 2020: Pass the CompTIA Security+
+- ⚡ Goal for 2020: Start senior research!
 ### Connect with me:
 
 
