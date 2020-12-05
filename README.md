@@ -3,7 +3,7 @@
 - 📜 BS Cybersecurity, Stetson University
 - 💻 Cybersecurity / Network Assistant @ Stetson University Information Security
 - ✨ Information Security Engineer / Analyst
-- ⚡ Goal for 2020: Start senior research!
+- ⚡ Goal for 2021: Finish senior research, graduate in December
 ### Connect with me:
 
 
