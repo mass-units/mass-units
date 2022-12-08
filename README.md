@@ -1,9 +1,8 @@
 # Hello! 👋
 ### About me:
 - 📜 BS Cybersecurity, Stetson University
-- 💻 Cybersecurity / Network Assistant @ Stetson University Information Security
-- ✨ Information Security Engineer / Analyst
-- ⚡ Goal for 2021: Finish senior research, graduate in December
+- 💻 Security Operations Engineer @ Blend
+- ✨ Information Security Eng
 ### Connect with me:
 
 
