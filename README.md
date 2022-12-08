@@ -2,7 +2,6 @@
 ### About me:
 - 📜 BS Cybersecurity, Stetson University
 - 💻 Security Operations Engineer @ Blend
-- ✨ Information Security Eng
 ### Connect with me:
 
 
